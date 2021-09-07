@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T11:08:39.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="h2ENyrWfiidpKBh-x8rC" version="14.9.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-09-07T03:55:43.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="8Q2Y5jGWk86-CBRddm7s" version="14.9.8" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="EM">
     <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -333,7 +333,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6u6ofE2WhAYYt6MiHn4h" name="第 5 页">
-    <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BMEpKwsKWS6-NzLlLbAi-0" />
         <mxCell id="BMEpKwsKWS6-NzLlLbAi-1" parent="BMEpKwsKWS6-NzLlLbAi-0" />
@@ -692,11 +692,11 @@
         <mxCell id="i5WeyScI3r_VQrSs3OTh-53" value="SWC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="i5WeyScI3r_VQrSs3OTh-1">
           <mxGeometry x="630" y="250.63" width="120" height="33.75" as="geometry" />
         </mxCell>
-        <mxCell id="i5WeyScI3r_VQrSs3OTh-61" value="MCU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="i5WeyScI3r_VQrSs3OTh-1">
-          <mxGeometry x="110" y="690" width="120" height="60" as="geometry" />
+        <mxCell id="i5WeyScI3r_VQrSs3OTh-61" value="SOC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="i5WeyScI3r_VQrSs3OTh-1">
+          <mxGeometry x="310" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i5WeyScI3r_VQrSs3OTh-62" value="Sensor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="i5WeyScI3r_VQrSs3OTh-1">
-          <mxGeometry x="110" y="830" width="120" height="60" as="geometry" />
+        <mxCell id="i5WeyScI3r_VQrSs3OTh-62" value="CAMERA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="i5WeyScI3r_VQrSs3OTh-1">
+          <mxGeometry x="110" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
