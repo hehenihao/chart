@@ -1,0 +1,28 @@
+@startuml waitset
+
+https://fast-dds.docs.eprosima.com/en/latest/fastdds/api_reference/dds_pim/core/condition/waitset.html
+
+class WaitSet {
+    +attach_condition()
+    +detach_condition()
+    -vector<Condition> conditions_
+}
+
+class Notifier {
+
+}
+
+enum TimeUnit {
+  DAYS
+  HOURS
+  MINUTES
+}
+
+class Condition {
+ -field1
+ #field2
+ -method1()
+ +method2()
+}
+
+@enduml
