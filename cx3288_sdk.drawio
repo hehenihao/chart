@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T04:01:00.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="kLax6guUZeai74sv7brm" version="21.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-21T04:02:15.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="se-OBFTw_UkAmhRRmZN9" version="21.5.0" type="github" pages="2">
   <diagram name="AUTOSAR_MCAL" id="Wxe5WbAEjRkNYdjz-F_n">
     <mxGraphModel dx="1252" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,12 +60,6 @@
         </mxCell>
         <mxCell id="QYDi9gkv5j2PDTE-wr9c-17" value="SPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="180" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="owylYGMzHSiHM8VG4bYy-1" value="FR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="230" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="owylYGMzHSiHM8VG4bYy-2" value="TTCAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="230" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
