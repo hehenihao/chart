@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T06:24:42.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="gu67RNABP-IGZTmU7s-5" version="21.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-27T06:25:08.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="bocCoCAwUnCen1wDkerj" version="21.6.3" type="github" pages="3">
   <diagram name="AUTOSAR_MCAL" id="Wxe5WbAEjRkNYdjz-F_n">
     <mxGraphModel dx="1250" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
         <mxCell id="uNBrBdtfIH-6RtI5sBho-19" value="spi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="287" y="420" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="91AWhknr_e0aBBaR-9j6-1" value="HARDWARE" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="91AWhknr_e0aBBaR-9j6-1" value="hardware" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="-351" y="690" width="1230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="91AWhknr_e0aBBaR-9j6-2" value="pwm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
