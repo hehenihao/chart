@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T06:13:59.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="2hQ9kv0Vo1KKx4xMkaX3" version="21.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-03T02:13:36.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="7EX4mmqm0hEpjwuAiK_g" version="21.6.3" type="github" pages="4">
   <diagram name="AUTOSAR_MCAL" id="Wxe5WbAEjRkNYdjz-F_n">
     <mxGraphModel dx="1250" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -299,7 +299,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="uTxnPZctd-_kNQah914h" name="rt-thread device driver">
+  <diagram id="uTxnPZctd-_kNQah914h" name="device driver">
     <mxGraphModel dx="1260" dy="861" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
