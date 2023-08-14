@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T07:18:37.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="-TWmdeQXvH07hJwfR2Hr" version="21.6.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-14T07:29:32.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="LzenRsBJNLmKNPtpYdTL" version="21.6.6" type="github" pages="5">
   <diagram name="AUTOSAR_MCAL" id="Wxe5WbAEjRkNYdjz-F_n">
     <mxGraphModel dx="1262" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -414,7 +414,7 @@
         <mxCell id="UV7ONe-TtQvlQdH51COB-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UV7ONe-TtQvlQdH51COB-36" target="UV7ONe-TtQvlQdH51COB-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UV7ONe-TtQvlQdH51COB-36" value="测试数据/日志封装上传" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UV7ONe-TtQvlQdH51COB-36" value="测试数据/日志封装上传（DataManager）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="458" y="427" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UV7ONe-TtQvlQdH51COB-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UV7ONe-TtQvlQdH51COB-38" target="UV7ONe-TtQvlQdH51COB-48">
@@ -501,7 +501,7 @@
         <mxCell id="UV7ONe-TtQvlQdH51COB-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UV7ONe-TtQvlQdH51COB-71" target="UV7ONe-TtQvlQdH51COB-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UV7ONe-TtQvlQdH51COB-71" value="标定日志/数据封装上传" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UV7ONe-TtQvlQdH51COB-71" value="标定日志/数据封装上传（DataManager）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="427" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UV7ONe-TtQvlQdH51COB-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UV7ONe-TtQvlQdH51COB-72" target="UV7ONe-TtQvlQdH51COB-74">
