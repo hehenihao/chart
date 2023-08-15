@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T15:55:25.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="4xbgSNPLwHIm7BVXmXrC" version="21.6.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-15T15:55:47.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="W0WWYH3Ksh7pVJ-1vEtO" version="21.6.8" type="github" pages="5">
   <diagram name="AUTOSAR_MCAL" id="Wxe5WbAEjRkNYdjz-F_n">
     <mxGraphModel dx="1262" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -692,7 +692,7 @@
         <mxCell id="0cT4xFUlKHQgEID7nQDa-55" value="" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="1010" as="sourcePoint" />
-            <mxPoint x="886.63" y="899" as="targetPoint" />
+            <mxPoint x="900" y="899" as="targetPoint" />
             <Array as="points">
               <mxPoint x="740" y="930" />
               <mxPoint x="780" y="920" />
