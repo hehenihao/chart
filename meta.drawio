@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T08:29:13.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" version="22.0.4" etag="UmoLvnPt5S8tsYVyx1aE" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T08:50:34.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="6puLoo_95wYkmq0LMQfB" version="22.0.4" type="github">
   <diagram name="第 1 页" id="9DdOqp5RpslNYR3PhkIs">
-    <mxGraphModel>
+    <mxGraphModel dx="1237" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahFxkoTIsDuq3HqAGgk5-1" target="ahFxkoTIsDuq3HqAGgk5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-1" value="code_from_model" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahFxkoTIsDuq3HqAGgk5-2" target="ahFxkoTIsDuq3HqAGgk5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-2" value="渲染 mako 模板" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahFxkoTIsDuq3HqAGgk5-4" target="ahFxkoTIsDuq3HqAGgk5-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-25" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ahFxkoTIsDuq3HqAGgk5-17">
+          <mxGeometry x="-0.431" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-4" value="启用用户代码保存？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="173.75" y="240" width="162.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahFxkoTIsDuq3HqAGgk5-10" target="ahFxkoTIsDuq3HqAGgk5-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-10" value="解析已有文件，安全替换生成内容" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahFxkoTIsDuq3HqAGgk5-16" target="ahFxkoTIsDuq3HqAGgk5-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-26" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ahFxkoTIsDuq3HqAGgk5-18">
+          <mxGeometry x="-0.3494" y="1" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ahFxkoTIsDuq3HqAGgk5-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="343" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="363" y="343" />
+              <mxPoint x="390" y="343" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-16" value="存在相同文件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="173.75" y="320" width="162.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahFxkoTIsDuq3HqAGgk5-19" target="ahFxkoTIsDuq3HqAGgk5-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-19" value="生成文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-21" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="580" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFxkoTIsDuq3HqAGgk5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ahFxkoTIsDuq3HqAGgk5-4" target="ahFxkoTIsDuq3HqAGgk5-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="263" />
+              <mxPoint x="390" y="528" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
