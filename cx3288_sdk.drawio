@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T06:56:00.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="QZHLTgAGUaUpnV_Q_Ur8" version="22.1.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-14T10:11:04.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="g6eLn23AeY3MibysbCkP" version="22.1.8" type="github" pages="5">
   <diagram name="AUTOSAR_MCAL" id="Wxe5WbAEjRkNYdjz-F_n">
     <mxGraphModel dx="1185" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -918,43 +918,70 @@
           <mxGeometry x="822" y="2066" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CX2Zjx5414FNlHPfXJht-14" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;" vertex="1" parent="1">
-          <mxGeometry x="570" y="2274" width="80" height="80" as="geometry" />
+          <mxGeometry x="554.4" y="2160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CX2Zjx5414FNlHPfXJht-15" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="409" y="2314" as="sourcePoint" />
-            <mxPoint x="565" y="2314" as="targetPoint" />
+            <mxPoint x="393.4" y="2200" as="sourcePoint" />
+            <mxPoint x="549.4" y="2200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CX2Zjx5414FNlHPfXJht-16" value="UART: CMD &amp;amp; PARAM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="427" y="2290" width="124" height="30" as="geometry" />
+          <mxGeometry x="411.4" y="2176" width="124" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CX2Zjx5414FNlHPfXJht-17" value="UART: LOG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="427" y="2324" width="124" height="30" as="geometry" />
+          <mxGeometry x="411.4" y="2210" width="124" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CX2Zjx5414FNlHPfXJht-18" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startFill=1;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="409" y="2324" as="sourcePoint" />
-            <mxPoint x="565" y="2324" as="targetPoint" />
+            <mxPoint x="393.4" y="2210" as="sourcePoint" />
+            <mxPoint x="549.4" y="2210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CX2Zjx5414FNlHPfXJht-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.93" y="2290" width="140.13" height="60" as="geometry" />
+          <mxGeometry x="245.33" y="2176" width="140.13" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CX2Zjx5414FNlHPfXJht-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CX2Zjx5414FNlHPfXJht-25" target="CX2Zjx5414FNlHPfXJht-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="2290" as="sourcePoint" />
-            <mxPoint x="428" y="2410" as="targetPoint" />
+            <mxPoint x="324.4" y="2176" as="sourcePoint" />
+            <mxPoint x="412.4" y="2296" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CX2Zjx5414FNlHPfXJht-29" value="user" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="2305" width="60" height="30" as="geometry" />
+          <mxGeometry x="244.4" y="2191" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CX2Zjx5414FNlHPfXJht-30" value="cmd_lib" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340.13" y="2305" width="60" height="30" as="geometry" />
+          <mxGeometry x="324.53" y="2191" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CX2Zjx5414FNlHPfXJht-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#6e3f3f;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-python-128.png;imageBackground=none;fontColor=#6666FF;" vertex="1" parent="1">
-          <mxGeometry x="315" y="2303" width="32" height="32" as="geometry" />
+          <mxGeometry x="299.4" y="2189" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="CX2Zjx5414FNlHPfXJht-32" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;" vertex="1" parent="1">
+          <mxGeometry x="553" y="2310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CX2Zjx5414FNlHPfXJht-33" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="392" y="2350" as="sourcePoint" />
+            <mxPoint x="548" y="2350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CX2Zjx5414FNlHPfXJht-34" value="UART: CMD &amp;amp; PARAM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2326" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CX2Zjx5414FNlHPfXJht-35" value="UART: LOG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2360" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CX2Zjx5414FNlHPfXJht-36" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="392" y="2360" as="sourcePoint" />
+            <mxPoint x="548" y="2360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CX2Zjx5414FNlHPfXJht-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-outline-vol-2/512/terminal-outline-128.png;fontSize=7;imageBackground=#EBEBEB;" vertex="1" parent="1">
+          <mxGeometry x="311.46" y="2313" width="74" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="CX2Zjx5414FNlHPfXJht-46" value="TTL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="318.46000000000004" y="2380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
