@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T09:37:16.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="hG66M0f1OBBXUh5SA6Ev" version="22.1.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-15T09:40:16.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KyrWdXPJNySRPaTONdYW" version="22.1.8" type="github" pages="5">
   <diagram name="AUTOSAR_MCAL" id="Wxe5WbAEjRkNYdjz-F_n">
     <mxGraphModel dx="1216" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
         <mxCell id="L1XkfPVXY90d1tmTyD7x-22" value="I2c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;strokeColor=#636363;" vertex="1" parent="1">
           <mxGeometry x="590" y="370" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L1XkfPVXY90d1tmTyD7x-26" value="Adc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#636363;" vertex="1" parent="1">
+        <mxCell id="L1XkfPVXY90d1tmTyD7x-26" value="Adc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#636363;" vertex="1" parent="1">
           <mxGeometry x="264.5" y="470" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L1XkfPVXY90d1tmTyD7x-27" value="Qdec" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;strokeColor=#636363;" vertex="1" parent="1">
@@ -141,7 +141,7 @@
         <mxCell id="L1XkfPVXY90d1tmTyD7x-31" value="Crypto" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8f8f8;strokeColor=#636363;" vertex="1" parent="1">
           <mxGeometry x="420" y="370" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L1XkfPVXY90d1tmTyD7x-43" value="Wdg" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f0f0f0;fontColor=#000000;strokeColor=#636363;" vertex="1" parent="1">
+        <mxCell id="L1XkfPVXY90d1tmTyD7x-43" value="Wdg" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8f8f8;fontColor=#000000;strokeColor=#636363;" vertex="1" parent="1">
           <mxGeometry x="-191" y="470" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L1XkfPVXY90d1tmTyD7x-58" value="Dac" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8F8F8;strokeColor=#636363;" vertex="1" parent="1">
