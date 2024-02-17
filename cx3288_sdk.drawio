@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T13:55:52.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="lrPHd9dqELtFQQl91_k7" version="23.1.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-02-17T14:19:57.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="UlmNY1cZIykB6-gHCBDg" version="23.1.5" type="github" pages="6">
   <diagram name="AUTOSAR_MCAL" id="Wxe5WbAEjRkNYdjz-F_n">
     <mxGraphModel dx="1216" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1122,36 +1122,48 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A1LS08UxzhlZ14gfp5eW" name="MCU">
-    <mxGraphModel dx="715" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="695" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TgBoManKTmpIi0W2rqZz-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgBoManKTmpIi0W2rqZz-1" target="TgBoManKTmpIi0W2rqZz-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="TgBoManKTmpIi0W2rqZz-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="210" as="sourcePoint" />
+            <mxPoint x="360" y="162" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="TgBoManKTmpIi0W2rqZz-1" value="Run" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="294" y="210" width="120" height="80" as="geometry" />
+        <mxCell id="TgBoManKTmpIi0W2rqZz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349" y="162" as="sourcePoint" />
+            <mxPoint x="349" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="TgBoManKTmpIi0W2rqZz-2" value="FastRun" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="150" y="290" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TgBoManKTmpIi0W2rqZz-3" value="SlowRun" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="440" y="300" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TgBoManKTmpIi0W2rqZz-4" value="LightSleep" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="180" y="402" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TgBoManKTmpIi0W2rqZz-5" value="DeepSleep" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="400" y="402" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TgBoManKTmpIi0W2rqZz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgBoManKTmpIi0W2rqZz-6" target="TgBoManKTmpIi0W2rqZz-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TgBoManKTmpIi0W2rqZz-6" value="Off" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="294" y="82" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TgBoManKTmpIi0W2rqZz-9" value="MCU Mode Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TgBoManKTmpIi0W2rqZz-9" value="MCU Mode Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="276" y="40" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCT9YwUjuLxtvRjtaAT-1" value="PowerOn" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCT9YwUjuLxtvRjtaAT-2" value="PowerOff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCT9YwUjuLxtvRjtaAT-3" value="OFF" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="254" y="114" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCT9YwUjuLxtvRjtaAT-4" value="Run" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="254" y="210" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCT9YwUjuLxtvRjtaAT-5" value="FastRun" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="100" y="310" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCT9YwUjuLxtvRjtaAT-7" value="LightSleep" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="440" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCT9YwUjuLxtvRjtaAT-8" value="DeepSleep" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="420" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCT9YwUjuLxtvRjtaAT-9" value="SlowRun" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
