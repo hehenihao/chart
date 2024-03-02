@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-02T03:29:13.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="QxXr_Dqj148_HJIWmHap" version="23.1.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-02T03:33:49.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="TMjnV4KUs7SsD-hl_3nu" version="23.1.7" type="github" pages="7">
   <diagram name="AUTOSAR_MCAL" id="Wxe5WbAEjRkNYdjz-F_n">
     <mxGraphModel dx="1216" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1169,10 +1169,25 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vGvEHiiK-E4Srq626J2k" name="utc_log">
-    <mxGraphModel dx="1216" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1013" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wgilE3p4M-EPvmeVJguH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wgilE3p4M-EPvmeVJguH-1" target="wgilE3p4M-EPvmeVJguH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wgilE3p4M-EPvmeVJguH-1" value="window.output" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wgilE3p4M-EPvmeVJguH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wgilE3p4M-EPvmeVJguH-2" target="wgilE3p4M-EPvmeVJguH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wgilE3p4M-EPvmeVJguH-2" value="common&lt;br&gt;javascripts&lt;br&gt;interfaces" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wgilE3p4M-EPvmeVJguH-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.vrealize_log_insight;" vertex="1" parent="1">
+          <mxGeometry x="130" y="270" width="90" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
