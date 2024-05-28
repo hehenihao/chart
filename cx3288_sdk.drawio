@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T07:08:17.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="AtHJYkKZ3k-xaTbwwkVK" version="24.2.8" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-28T07:09:33.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="iAojlEiKSlYk70-N88K3" version="24.2.8" type="github" pages="10">
   <diagram name="AUTOSAR_MCAL" id="Wxe5WbAEjRkNYdjz-F_n">
     <mxGraphModel dx="1272" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1780,8 +1780,8 @@
         <mxCell id="7qVX8XmUDIvyGkC22LIL-27" value="..." style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="119" y="215" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7qVX8XmUDIvyGkC22LIL-28" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;#include &quot;module_reg.h&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;&quot;&lt;br style=&quot;font-size: 8px;&quot;&gt;...&lt;/span&gt;&lt;/div&gt;{&lt;div style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; U32 value = RD_{REG_NAME}(0);&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="659" y="110" width="140" height="200" as="geometry" />
+        <mxCell id="7qVX8XmUDIvyGkC22LIL-28" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;#include &quot;module_reg.h&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;&quot;&lt;br style=&quot;font-size: 10px;&quot;&gt;...&lt;/span&gt;&lt;/div&gt;{&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; U32 value = RD_{REG_NAME}(0);&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="650" y="110" width="170" height="200" as="geometry" />
         </mxCell>
         <mxCell id="-Rj79Z-dMzms2gZFuxzK-1" value="user code" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="649" y="40" width="170" height="30" as="geometry" />
