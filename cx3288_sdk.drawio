@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T14:30:56.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="FdxpfncT148SVtN46-ZT" version="24.5.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-06-18T14:31:51.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Wqn_9pz-y5BvBq7MNVLW" version="24.5.1" type="github" pages="11">
   <diagram name="AUTOSAR_MCAL" id="Wxe5WbAEjRkNYdjz-F_n">
     <mxGraphModel dx="1272" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1861,7 +1861,7 @@
           <mxGeometry x="80" y="260" width="420" height="200" as="geometry" />
         </mxCell>
         <mxCell id="GiYjtqPwcdPk4SQRNnj5-4" value="coding server" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
-          <mxGeometry x="265" y="140" width="50" height="31.5" as="geometry" />
+          <mxGeometry x="250.31" y="124" width="79.37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GiYjtqPwcdPk4SQRNnj5-5" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;mcalgen-server&lt;/span&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
           <mxGeometry x="410" y="288.90000000000003" width="62.400000000000006" height="62.400000000000006" as="geometry" />
