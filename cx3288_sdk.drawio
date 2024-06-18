@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T06:49:19.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="UDwwQ7O_NGW9yr8uAJXK" version="24.4.15" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-06-18T09:53:25.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="AfJiYyVQJnnBO0uox8Cd" version="24.5.1" type="github" pages="11">
   <diagram name="AUTOSAR_MCAL" id="Wxe5WbAEjRkNYdjz-F_n">
     <mxGraphModel dx="1272" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1848,6 +1848,96 @@
         </mxCell>
         <mxCell id="jeU8n1Ua5kwqLB4rYxwH-48" value="&lt;ul&gt;&lt;li&gt;以 binary 格式提供（U32 数组或者 U8 数组）&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="9" y="730" width="250" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="h7RND5LEvR5tJ5lM--49" name="第 11 页">
+    <mxGraphModel dx="877" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GiYjtqPwcdPk4SQRNnj5-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="420" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GiYjtqPwcdPk4SQRNnj5-4" value="coding server" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="265" y="140" width="50" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GiYjtqPwcdPk4SQRNnj5-5" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;mcalgen-server&lt;/span&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="410" y="288.90000000000003" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="GiYjtqPwcdPk4SQRNnj5-6" value="mcalgen-client" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#828282;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="288.90000000000003" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="GiYjtqPwcdPk4SQRNnj5-8" value="内网穿透" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
+          <mxGeometry x="260" y="314" width="55.800000000000004" height="39.6" as="geometry" />
+        </mxCell>
+        <mxCell id="GiYjtqPwcdPk4SQRNnj5-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1.02;exitY=0.476;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;startArrow=classic;startFill=1;dashed=1;strokeColor=#3399FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="161" y="395.36" as="sourcePoint" />
+            <mxPoint x="260" y="328.7" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="410" />
+              <mxPoint x="230" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GiYjtqPwcdPk4SQRNnj5-12" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1.02;exitY=0.476;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;startArrow=classic;startFill=1;dashed=1;strokeColor=#3399FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315" y="331.3" as="sourcePoint" />
+            <mxPoint x="410" y="313" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="331" />
+              <mxPoint x="390" y="304" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GiYjtqPwcdPk4SQRNnj5-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.885;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;startArrow=classic;startFill=1;dashed=1;entryX=0.044;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#3399FF;" edge="1" parent="1" source="GiYjtqPwcdPk4SQRNnj5-6" target="GiYjtqPwcdPk4SQRNnj5-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="322.6" as="sourcePoint" />
+            <mxPoint x="259" y="256.29999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="320" />
+              <mxPoint x="230" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GiYjtqPwcdPk4SQRNnj5-17" value="mcalgen-client" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#828282;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="GiYjtqPwcdPk4SQRNnj5-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.885;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;startArrow=classic;startFill=1;dashed=1;strokeColor=#4fbf74;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="288.9" as="sourcePoint" />
+            <mxPoint x="290" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="270" />
+              <mxPoint x="180" y="230" />
+              <mxPoint x="220" y="220" />
+              <mxPoint x="280" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GiYjtqPwcdPk4SQRNnj5-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.885;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;startArrow=classic;startFill=1;dashed=1;strokeColor=#4fbf74;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="380" as="sourcePoint" />
+            <mxPoint x="290" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="361.1" />
+              <mxPoint x="180" y="321.1" />
+              <mxPoint x="250" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GiYjtqPwcdPk4SQRNnj5-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;endFill=1;startArrow=classic;startFill=1;dashed=1;strokeColor=#4fbf74;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="200" as="sourcePoint" />
+            <mxPoint x="410" y="314" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="230" />
+              <mxPoint x="390" y="240" />
+              <mxPoint x="400" y="314" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
