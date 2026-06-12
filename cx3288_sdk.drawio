@@ -1217,7 +1217,7 @@
         <mxCell id="6KWh7_SX6gnoi6iiPotx-33" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="DUT 交互" vertex="1">
           <mxGeometry height="30" width="97" x="80.8" y="1570" as="geometry" />
         </mxCell>
-        <mxCell id="6KWh7_SX6gnoi6iiPotx-34" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="测试用例管理" vertex="1">
+        <mxCell id="6KWh7_SX6gnoi6iiPotx-34" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="测试数据管理" vertex="1">
           <mxGeometry height="30" width="97" x="80" y="1660" as="geometry" />
         </mxCell>
         <mxCell id="6KWh7_SX6gnoi6iiPotx-35" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="..." vertex="1">
